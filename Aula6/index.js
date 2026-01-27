@@ -1,7 +1,8 @@
-let nome = 'João';
+let nomeH = 'João'; //String
+let nomeM = 'Maria'; //String
 
-console.log('João nasceu em 2005'); 
-console.log('Maria nasceu em 2007');
-console.log('João e Maria são irmãos');
-console.log('Maria gosta de estudar matemática');
-console.log('João gosta de jogar futebol');
+console.log(nomeH, 'nasceu em 2005');
+console.log(nomeM, 'nasceu em 2007');
+console.log(nomeH, 'e', nomeM, 'são irmãos');
+console.log(nomeM, 'gosta de estudar matemática');
+console.log(nomeH, 'gosta de jogar futebol'); 
