@@ -1,9 +1,7 @@
-/*
 let contador = 1;
 ++contador;
 contador++;
 console.log(contador); //3
-*/
 
 // NaN - Not a number parseInt (inteiro), parseFloat(decimais)
 const num1 = 10;
