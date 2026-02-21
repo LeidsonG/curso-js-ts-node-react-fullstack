@@ -58,10 +58,10 @@ form button:hover {
 }
 
 .paragrafo-resultado, .bad {
-  background: rgb(109, 255, 182);
+  background: rgb(0, 255, 115);
   padding: 10px 20px;
 }
 
 .bad {
-  background: rgb(255, 150, 150);
+  background: rgb(255, 0, 0);
 }
